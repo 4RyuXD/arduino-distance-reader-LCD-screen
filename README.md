@@ -7,7 +7,7 @@ Breadboard
 Jumper Wires
 LCD1602 Module
 Ultrasonic Sensor Module
-10k Potentionmeter
+10k Potentiometer
 220ohm Resistor
 
 -Libraries-
