@@ -17,3 +17,4 @@ LiquidCrystal by Arduino, Adafruit
 The circuit diagram shows pin 11 connected to Register Select and pin 12 connected to Enable, but if you have a different arduino board, connect it according to your SPI Bus pins
 Pin 11 = MOSI/PICO
 Pin 12 = MISO/POCI
+The code used pins 50 and 51, please replace them with your respective SPI bus pins
